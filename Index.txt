@@ -3,6 +3,7 @@
 \Compare Documents
 \Extract Pages
 \Extract Text
+\Find Table And Extract As CSV
 \Merge Documents
 \OCR (Optical Character Recognition)
 \Split Document
