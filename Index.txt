@@ -1,9 +1,9 @@
 ## Index of source code examples:
 
-\Compare Documents
-\Extract Pages
-\Extract Text
-\Find Table And Extract As CSV
-\Merge Documents
-\OCR (Optical Character Recognition)
-\Split Document
+\Compare PDF Documents
+\Extract PDF Pages
+\Extract Text from PDF
+\Find Table And Extract As CSV from PDF
+\Merge PDF Documents
+\PDF and OCR (Optical Character Recognition)
+\Split PDF Document
