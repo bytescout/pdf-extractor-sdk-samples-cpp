@@ -1,9 +1,12 @@
 ## Index of source code examples:
 
 \Compare PDF Documents
+\Convert Protected PDF Document to Excel (C++ CLR)
 \Extract PDF Pages
 \Extract Text from PDF
 \Find Table And Extract As CSV from PDF
 \Merge PDF Documents
+\Merge Protected PDF Documents (C++ CLR)
 \PDF and OCR (Optical Character Recognition)
 \Split PDF Document
+\Split Protected PDF Document (C++ CLR)
